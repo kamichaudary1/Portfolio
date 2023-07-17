@@ -1,0 +1,29 @@
+{
+  "navigation": [
+        {
+            "id": 1,
+            "navLink": "/",
+            "navText": "about"
+        },
+        {
+            "id": "2",
+            "navLink": "/",
+            "navText": "services"
+        },
+        {
+            "id": "3",
+            "navLink": "/",
+            "navText": "portfolio"
+        },
+        {
+            "id": "4",
+            "navLink": "/",
+            "navText": "testimonials"
+        },
+        {
+            "id": "4",
+            "navLink": "/",
+            "navText": "let's talk"
+        }
+    ]
+}

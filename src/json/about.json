@@ -1,0 +1,56 @@
+{
+    "about": "About" ,
+    "name": "Kamran Arshad",
+    "aboutContact": "Let's Talk",
+    "aboutThankyou": "Thank you for visiting my portfolio!",
+    "aboutDescription": [
+        {
+            "aboutParagraph": "I'm a frontend developer with more than 10-years of experience. I specialize in developing interactive, user-friendly websites and applications that provide an exceptional user experience. My expertise includes HTML, CSS, JavaScript, and various frontend frameworks such as React and Angular. Throughout my career, I have worked on various projects, ranging from small-scale websites to large-scale applications. I have experience collaborating with clients, project managers, and other developers to ensure that each project is delivered on time and to the highest standards. I am passionate about creating beautiful, functional websites  that not only look great but also provide a seamless user experience. I strive to stay up-to-date with the latest technologies and best practices in the frontend development industry to ensure that my skills are always relevant."
+        },
+        {
+            "aboutParagraph": "In my portfolio, you will find examples of my work, including websites, applications, and other frontend development projects. Each project showcases my skills in designing, developing, and implementing user-friendly interfaces and layouts that are both aesthetically pleasing and functional. I am always eager to take on new challenges and collaborate on exciting projects. If you're interested in working with me or have any questions, please don't hesitate to"        }
+    ],    
+    "aboutSkills": [
+        {
+            "skilTitle": "HTML",
+            "skillLevel": "99"
+        },
+        {
+            "skilTitle": "CSS3",
+            "skillLevel": "99"
+        },
+        {
+            "skilTitle": "Bootstrap",
+            "skillLevel": "99"
+        },
+        {
+            "skilTitle": "Javascipt",
+            "skillLevel": "65"
+        },
+        {
+            "skilTitle": "jQuery",
+            "skillLevel": "70"
+        },
+        {
+            "skilTitle": "React",
+            "skillLevel": "70"
+        },
+        {
+            "skilTitle": "Next Js",
+            "skillLevel": "70"
+        },
+        {
+            "skilTitle": "WordPress",
+            "skillLevel": "70"
+        },
+        {
+            "skilTitle": "Elemantor",
+            "skillLevel": "80"
+        },
+        {
+            "skilTitle": "Adobe Photoshop",
+            "skillLevel": "80"
+        }
+    ]
+}    
+  

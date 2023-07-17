@@ -1,0 +1,36 @@
+{
+    "portfolioText": "Portfolio",
+    "portfolioTitle": "My Recent Work",
+    "portfolioDetail": [
+        {
+            "portfolioThumbnail": "/assets/images/html-css.png",
+            "portfolioTechsTitle": "Technology Stack User in Project",
+            "portfolioTechs": "HTML, CSS3, WordPress"
+        },
+        {
+            "portfolioThumbnail": "../assets/images/facebook.svg",
+            "portfolioTechsTitle": "Technology Stack User in Project",
+            "portfolioTechs": "HTML, CSS3, WordPress"
+        },
+        {
+            "portfolioThumbnail": "../assets/images/facebook.svg",
+            "portfolioTechsTitle": "Technology Stack User in Project",
+            "portfolioTechs": "HTML, CSS3, WordPress"
+        },
+        {
+            "portfolioThumbnail": "../assets/images/facebook.svg",
+            "portfolioTechsTitle": "Technology Stack User in Project",
+            "portfolioTechs": "HTML, CSS3, WordPress"
+        },
+        {
+            "portfolioThumbnail": "../assets/images/facebook.svg",
+            "portfolioTechsTitle": "Technology Stack User in Project",
+            "portfolioTechs": "HTML, CSS3, WordPress"
+        },
+        {
+            "portfolioThumbnail": "../assets/images/facebook.svg",
+            "portfolioTechsTitle": "Technology Stack User in Project",
+            "portfolioTechs": "HTML, CSS3, WordPress"
+        }
+    ]
+}

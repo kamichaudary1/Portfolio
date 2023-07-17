@@ -1,0 +1,19 @@
+{
+    "bannerHeading": "Bringing your digital \"<span>\"Vision to Life,\"</span>\" one pixel at a time." ,
+    "bannerTagline": "Passionate Frontend React Developer with expertise in building dynamic and responsive user interfaces.",
+    "bannerSocialList": [
+        {
+            "bannerSocialLink": "facebook.com",
+            "bannerSocialIcon": "../assets/images/facebook.svg"
+        },
+        {
+            "bannerSocialLink": "https://www.linkedin.com/in/kamran-arshad-37522b81/",
+            "bannerSocialIcon": "../assets/images/linkedin.svg"
+        },
+        {
+            "bannerSocialLink": "https://github.com/kamichaudary1",
+            "bannerSocialIcon": "../assets/images/git.svg"
+        }
+    ]
+}    
+  
